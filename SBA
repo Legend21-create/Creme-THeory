@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Jacob Hotel & Spa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <img src="logo.png" alt="Jacob Hotel & Spa Logo" class="logo">
+        <h1>Jacob Hotel & Spa</h1>
+    </header>
+
+    <section id="overview">
+        <h2>Welcome to Paradise</h2>
+        <p>Experience luxury at Jacob Hotel & Spa. Our resort offers world-class facilities, including a full-service spa, infinity pools, and gourmet dining. Whether you are looking for a romantic getaway or a family adventure, we provide the perfect setting for your stay.</p>
+    </section>
+
+    <section id="attractions">
+        <h2>Facilities & Attractions</h2>
+        <ul>
+            <li>Luxury Spa & Wellness Center</li>
+            <li>Ocean-view Suites</li>
+            <li>Special Offer: 14% Discount for Early Bookings!</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>Contact us: <a href="mailto:info@jacobhotel.com">Email Our Team</a></p>
+        <p>View our full details: <a href="brochure.pdf" target="_blank">Download Brochure</a></p>
+    </footer>
+
+</body>
+</html>
